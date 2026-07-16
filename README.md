@@ -70,18 +70,20 @@ CCNA-Labs/
 - Document every networking lab professionally.
 - Maintain a portfolio showcasing practical CCNA knowledge.
 
-## 🚀 Current Progress
+## 🚀 Roadmap
 
-| Topic | Status |
-|--------|--------|
-| Static Routing | ✅ Completed |
-| RIP | ✅ Completed |
-| OSPF | 🔄 In Progress |
-| VLAN | ⏳ Planned |
-| DHCP | ⏳ Planned |
-| NAT | ⏳ Planned |
-| ACL | ⏳ Planned |
-| STP | ⏳ Planned |      
+| Lab | Status |
+|------|--------|
+| Static Routing | 🟡 Planned |
+| RIP | 🟡 Planned |
+| OSPF | 🟡 Planned |
+| VLAN | 🟡 Planned |
+| Inter-VLAN Routing | 🟡 Planned |
+| DHCP | 🟡 Planned |
+| NAT | 🟡 Planned |
+| ACL | 🟡 Planned |
+| Port Security | 🟡 Planned |
+| STP | 🟡 Planned |  
 
 ## 📈 Why This Repository?
 
